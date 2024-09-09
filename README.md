@@ -1,6 +1,6 @@
-# Sample GLM4V + ChatTTS AI assistant
+# GLM4V and QWen And GLM4V + ChatTTS AI Demo
 
-You need a `GLM_API_KEY` to run this code. Store it in a `.env` file in the root directory of the project, or set them as environment variables.
+You need a `GLM_API_KEY` And `DASHSCOPE_API_KEY` to run this code. Store it in a `.env` file in the root directory of the project, or set them as environment variables.
 
 
 ![demo.png](demo.png)
